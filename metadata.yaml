@@ -1,0 +1,24 @@
+_repo: The-Clockmaker-or-the-Sayings-and-Doings-of-Samuel-Slick-of-Slickville_5817
+creator:
+  author:
+    agent_name: Haliburton, Thomas Chandler
+    alias: Slick, Sam
+    birthdate: 1796
+    deathdate: 1865
+    gutenberg_agent_id: '1880'
+    url: http://www.gutenberg.org/2009/agents/1880
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Chandler_Haliburton
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5817'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Slick, Sam (Fictitious character) -- Fiction'
+- !lcc 'PS'
+title: The Clockmaker — or, the Sayings and Doings of Samuel Slick, of Slickville
+url: http://www.gutenberg.org/ebooks/5817
