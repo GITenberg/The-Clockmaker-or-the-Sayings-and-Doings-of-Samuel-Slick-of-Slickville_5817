@@ -1,5 +1,5 @@
 _repo: The-Clockmaker-or-the-Sayings-and-Doings-of-Samuel-Slick-of-Slickville_5817
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -26,5 +26,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Slick, Sam (Fictitious character) -- Fiction'
 - !lcc 'PS'
+- GITenberg
 title: The Clockmaker — or, the Sayings and Doings of Samuel Slick, of Slickville
 url: http://www.gutenberg.org/ebooks/5817
